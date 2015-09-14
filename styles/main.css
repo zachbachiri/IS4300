@@ -1,0 +1,28 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,800,700);
+
+body{
+    font-family: "OpenSans";
+    font-weight: 300;
+}
+.page_wrap{
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    max-width: 950px;
+}
+.title_wrap{
+    padding: 50px 0;
+    text-align: center;
+    background-color: #00CCCD;
+}
+.title_wrap h1{
+    color: white;
+    margin-bottom: 0;
+    font-weight: 8700;
+    font-size: 36px;
+}
+.title_wrap h2{
+    color: white;
+    margin-top: 10px;
+    font-weight: 300;
+}
